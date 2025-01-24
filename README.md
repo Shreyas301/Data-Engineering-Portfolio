@@ -52,6 +52,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
   - Projects 
     - [Real-time stock analysis using Kafka and AWS](https://github.com/Shreyas301/Real-time-stock-analysis-using-kafka-)
+    - ELT Pipeline (dbt, Snowflake, Airflow)
     - [Gold trade dashboard between SA and Mali](https://github.com/Shreyas301/Gold-trade-dashboard-between-South-Africa-and-Mali)
     - [EV sales dashboard](https://github.com/Shreyas301/EV-sales-dashboard)
     - [Aircanvas Environment](https://github.com/Shreyas301/Aircanvas-Environment)
@@ -73,6 +74,15 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 **Technology**: Python, Kafka, Zookeeper, AWS
 
 **Results**: The result of implementing real-time stock analysis using Kafka is a highly efficient and scalable system that processes and analyzes large volumes of stock market data in real time, delivering immediate insights and actionable information. This enables users, such as traders and analysts, to detect market trends, anomalies, and fluctuations as they happen, allowing for faster decision-making, optimized trading strategies, and improved risk management. The system ensures data accuracy and reliability, providing a robust platform for making data-driven decisions in a dynamic market environment.
+
+### 2. ELT Pipeline (dbt, Snowflake, Airflow)
+**Code**
+**Description**: The project involves building a scalable ELT (Extract, Load, Transform) data pipeline using dbt, Snowflake, and Airflow. The pipeline automates data ingestion, transformation, and orchestration to create a robust and efficient data pipeline for analytics. Data from various sources is loaded into Snowflake, transformed using dbt, and orchestrated with Apache Airflow to ensure smooth execution and monitoring of workflows.
+**Goal**: Develop an automated, scalable ELT pipeline to enable reliable, real-time analytics and reporting. Leverage dbt for modular, version-controlled SQL-based transformations. Use Snowflake as the cloud data warehouse for efficient data storage and query performance. Implement Apache Airflow for workflow orchestration to schedule and monitor pipeline tasks. Deliver clean, actionable datasets for business intelligence (BI) tools and decision-making.
+**Skills**: Data engineering, SQL development, Workflow autoamation, Cloud Data Warehousing, Version Control
+**Technology**: dbt, Snowflake, Apache Airflow, Git, Python, BI Tool.
+**Result**: A fully automated and reliable ELT pipeline that delivers clean, transformed data in Snowflake for business intelligence and analytics. Scalable architecture that can handle growing data volumes and new data sources.
+Reusable and modular SQL models in dbt ensure better collaboration and maintainability. Airflow ensures smooth task orchestration, error handling, and monitoring. Reduced manual effort and increased data availability for analytics teams.
 
 ### 2. Gold trade dashboard between SA and Mali
 
