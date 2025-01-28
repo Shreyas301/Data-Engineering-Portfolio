@@ -50,15 +50,34 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 ### Table of Contents
 
-  - Projects 
+  - Projects
+
+    - [Cars SalesAnalysis - PowerBI](https://github.com/Shreyas301/Cars-Sales-Analysis-Power-BI-)
     - [Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra](https://github.com/Shreyas301/Real-time-data-streaming-using-Kafka-Airflow-Apache-Spark-Cassandra)
     - [Real-time stock analysis using Kafka and AWS](https://github.com/Shreyas301/Real-time-stock-analysis-using-kafka-)
-    - ELT Pipeline (dbt, Snowflake, Airflow)
+    - [ELT Pipeline (dbt, Snowflake, Airflow)](https://github.com/Shreyas301/ELT-pipeline-dbt-Snowflake-Airflow-)
     - [Gold trade dashboard between SA and Mali](https://github.com/Shreyas301/Gold-trade-dashboard-between-South-Africa-and-Mali)
     - [EV sales dashboard](https://github.com/Shreyas301/EV-sales-dashboard)
     - [Aircanvas Environment](https://github.com/Shreyas301/Aircanvas-Environment)
     
-### 1. Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
+### 1. Cars SalesAnalysis - PowerBI
+
+#### Cars SalesAnalysis - PowerBI
+
+**Code**:(https://github.com/Shreyas301/Cars-Sales-Analysis-Power-BI-)
+
+
+**Description**: The Car Sales Power BI Dashboard project involves creating an interactive and visually appealing dashboard to analyze car sales data. It focuses on presenting insights like sales trends, top-selling car-models, revenue generation, market segmentation, and customer demographics. The dashboard simplifies decision-making by providing stakeholders with real-time, data-driven insights.
+
+**Goal**: The primary goals of the project are to enhance visibility into sales performance, identify high-performing regions and products, uncover market trends, and assist in strategic planning. Additionally, it aims to improve operational efficiency and provide stakeholders with an intuitive tool to explore sales data effectively.
+
+**Skills**: Key skills for this project include data analysis, data visualization, and dashboard design using Power BI. Proficiency in data cleaning and transformation with Power Query, creating calculated measures and columns using DAX (Data Analysis Expressions), and integrating multiple data sources is essential. Strong communication skills for stakeholder collaboration are also valuable.
+
+**Technology**: Power BI, MS Excel.
+
+**Results**: The final dashboard provides actionable insights into sales performance, allowing stakeholders to track KPIs like total revenue, sales growth, and market share in real-time. It empowers the team to identify opportunities, address challenges, and optimize business strategies, ultimately improving overall profitability and customer satisfaction.
+
+### 2. Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
 
 #### Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
 
@@ -75,7 +94,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 **Results**: The project successfully delivered a robust, real-time data streaming pipeline capable of processing millions of events per second. It reduced data processing latency to milliseconds, ensured high system availability, and demonstrated scalability to handle future growth. The pipeline provided actionable insights, enabling timely decision-making and achieving significant improvements in operational efficiency and business outcomes.
 
-### 2. Real-time stock analysis using Kafka and AWS
+### 3. Real-time stock analysis using Kafka and AWS
 
 #### Real-time stock analysis using Kafka and AWS
 
@@ -92,8 +111,8 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 **Results**: The result of implementing real-time stock analysis using Kafka is a highly efficient and scalable system that processes and analyzes large volumes of stock market data in real time, delivering immediate insights and actionable information. This enables users, such as traders and analysts, to detect market trends, anomalies, and fluctuations as they happen, allowing for faster decision-making, optimized trading strategies, and improved risk management. The system ensures data accuracy and reliability, providing a robust platform for making data-driven decisions in a dynamic market environment.
 
-### 3. ELT Pipeline (dbt, Snowflake, Airflow)
-**Code**
+### 4. ELT Pipeline (dbt, Snowflake, Airflow)
+**Code**:  [ELT Pipeline (dbt, Snowflake, Airflow)](https://github.com/Shreyas301/ELT-pipeline-dbt-Snowflake-Airflow-)
 **Description**: The project involves building a scalable ELT (Extract, Load, Transform) data pipeline using dbt, Snowflake, and Airflow. The pipeline automates data ingestion, transformation, and orchestration to create a robust and efficient data pipeline for analytics. Data from various sources is loaded into Snowflake, transformed using dbt, and orchestrated with Apache Airflow to ensure smooth execution and monitoring of workflows.
 **Goal**: Develop an automated, scalable ELT pipeline to enable reliable, real-time analytics and reporting. Leverage dbt for modular, version-controlled SQL-based transformations. Use Snowflake as the cloud data warehouse for efficient data storage and query performance. Implement Apache Airflow for workflow orchestration to schedule and monitor pipeline tasks. Deliver clean, actionable datasets for business intelligence (BI) tools and decision-making.
 **Skills**: Data engineering, SQL development, Workflow autoamation, Cloud Data Warehousing, Version Control
@@ -101,7 +120,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 **Result**: A fully automated and reliable ELT pipeline that delivers clean, transformed data in Snowflake for business intelligence and analytics. Scalable architecture that can handle growing data volumes and new data sources.
 Reusable and modular SQL models in dbt ensure better collaboration and maintainability. Airflow ensures smooth task orchestration, error handling, and monitoring. Reduced manual effort and increased data availability for analytics teams.
 
-### 4. Gold trade dashboard between SA and Mali
+### 5. Gold trade dashboard between SA and Mali
 
 *Public Repository:* [Python DA](https://github.com/tuanx18/ds-python-projects)
 
@@ -119,7 +138,7 @@ Reusable and modular SQL models in dbt ensure better collaboration and maintaina
 
 **Results**: The result of the Gold Trade Dashboard is an intuitive, interactive platform that enables stakeholders to monitor and analyze the flow of gold between South Africa and Mali, helping to optimize trade strategies, track compliance with trade regulations, and identify trends and opportunities for growth in the gold market. The system enhances transparency, improves decision-making, and provides valuable insights into the economic dynamics between the two countrie
 
-#### 4 EV sales dashboard
+#### 6 EV sales dashboard
 
 **Code** :[EV sales dashboard](https://github.com/Shreyas301/EV-sales-dashboard)
 
@@ -133,7 +152,7 @@ Reusable and modular SQL models in dbt ensure better collaboration and maintaina
 
 **Results**: The result of the EV Sales Dashboard is an interactive, real-time platform that enables stakeholders to monitor electric vehicle sales performance, identify trends, and make data-driven decisions. It supports manufacturers, dealers, and investors in tracking market penetration, understanding regional preferences, forecasting future sales, and adjusting strategies based on the insights derived from comprehensive sales data. The dashboard ultimately contributes to optimizing marketing efforts, enhancing product offerings, and driving the adoption of electric vehicles.
 
-#### 5 Aircanvas Environment
+#### 7 Aircanvas Environment
 
 **Code** :[Aircanvas Environment](https://github.com/Shreyas301/Aircanvas-Environment)
 
