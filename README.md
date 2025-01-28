@@ -52,6 +52,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
   - Projects
 
+    - [British Airways Review Analysis](https://github.com/Shreyas301/British-Airways-Review-Analysis)
     - [Cars SalesAnalysis - PowerBI](https://github.com/Shreyas301/Cars-Sales-Analysis-Power-BI-)
     - [Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra](https://github.com/Shreyas301/Real-time-data-streaming-using-Kafka-Airflow-Apache-Spark-Cassandra)
     - [Real-time stock analysis using Kafka and AWS](https://github.com/Shreyas301/Real-time-stock-analysis-using-kafka-)
@@ -60,7 +61,23 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
     - [EV sales dashboard](https://github.com/Shreyas301/EV-sales-dashboard)
     - [Aircanvas Environment](https://github.com/Shreyas301/Aircanvas-Environment)
     
-### 1. Cars SalesAnalysis - PowerBI
+### 1. British Airways Review Analysis - Tableau
+
+#### British Airways Review Analysis - Tableau
+
+**Code**:(https://github.com/Shreyas301/British-Airways-Review-Analysis)
+
+**Description**: The British Airways Review Dashboard provides an analytical overview of customer feedback on various aspects of the airline’s service. It includes metrics such as Ground Service, Value for Money, and Seat Comfort, along with interactive filters to analyze traveler types, aircraft models, and seating classes. The dashboard visualizes trends over time, geographical distribution of reviews, and comparative performance across different aircraft.
+
+**Goal**: The primary goal of this analysis is to understand customer satisfaction trends for British Airways by identifying strengths and areas needing improvement. By examining customer ratings across different aircraft, service aspects, and regions, the insights help in strategic decision-making for enhancing service quality, optimizing fleet performance, and improving the passenger experien
+
+**Skills**: The skills required include data visualization (Tableau), data analysis, and interpretation of customer feedback trends. Proficiency in filtering and segmenting data, using time-series analysis to track performance trends, and comparing aircraft performance using bar and line charts is crucial. Additionally, understanding of airline industry benchmarks and how they relate to customer expectations is beneficial.
+
+**Technology**: Tableau, MS Excel.
+**Results**: The results from the dashboard indicate customer perceptions of British Airways over time, highlighting variations in service ratings by traveler type, seat class, and aircraft model. The geographical map provides insights into key markets, while the trend analysis helps track performance fluctuations. These insights can drive strategic improvements in service quality, pricing, and fleet management to enhance customer satisfactio
+
+
+### 2. Cars SalesAnalysis - PowerBI
 
 #### Cars SalesAnalysis - PowerBI
 
@@ -77,7 +94,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 **Results**: The final dashboard provides actionable insights into sales performance, allowing stakeholders to track KPIs like total revenue, sales growth, and market share in real-time. It empowers the team to identify opportunities, address challenges, and optimize business strategies, ultimately improving overall profitability and customer satisfaction.
 
-### 2. Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
+### 3. Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
 
 #### Real-time data streaming using Kafka, Airflow, Apache Spark, Cassandra
 
@@ -94,7 +111,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 **Results**: The project successfully delivered a robust, real-time data streaming pipeline capable of processing millions of events per second. It reduced data processing latency to milliseconds, ensured high system availability, and demonstrated scalability to handle future growth. The pipeline provided actionable insights, enabling timely decision-making and achieving significant improvements in operational efficiency and business outcomes.
 
-### 3. Real-time stock analysis using Kafka and AWS
+### 4. Real-time stock analysis using Kafka and AWS
 
 #### Real-time stock analysis using Kafka and AWS
 
@@ -111,7 +128,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 
 **Results**: The result of implementing real-time stock analysis using Kafka is a highly efficient and scalable system that processes and analyzes large volumes of stock market data in real time, delivering immediate insights and actionable information. This enables users, such as traders and analysts, to detect market trends, anomalies, and fluctuations as they happen, allowing for faster decision-making, optimized trading strategies, and improved risk management. The system ensures data accuracy and reliability, providing a robust platform for making data-driven decisions in a dynamic market environment.
 
-### 4. ELT Pipeline (dbt, Snowflake, Airflow)
+### 5. ELT Pipeline (dbt, Snowflake, Airflow)
 **Code**:  [ELT Pipeline (dbt, Snowflake, Airflow)](https://github.com/Shreyas301/ELT-pipeline-dbt-Snowflake-Airflow-)
 **Description**: The project involves building a scalable ELT (Extract, Load, Transform) data pipeline using dbt, Snowflake, and Airflow. The pipeline automates data ingestion, transformation, and orchestration to create a robust and efficient data pipeline for analytics. Data from various sources is loaded into Snowflake, transformed using dbt, and orchestrated with Apache Airflow to ensure smooth execution and monitoring of workflows.
 **Goal**: Develop an automated, scalable ELT pipeline to enable reliable, real-time analytics and reporting. Leverage dbt for modular, version-controlled SQL-based transformations. Use Snowflake as the cloud data warehouse for efficient data storage and query performance. Implement Apache Airflow for workflow orchestration to schedule and monitor pipeline tasks. Deliver clean, actionable datasets for business intelligence (BI) tools and decision-making.
@@ -120,7 +137,7 @@ In my portfolio, you'll find a collection of diverse data engineering and data a
 **Result**: A fully automated and reliable ELT pipeline that delivers clean, transformed data in Snowflake for business intelligence and analytics. Scalable architecture that can handle growing data volumes and new data sources.
 Reusable and modular SQL models in dbt ensure better collaboration and maintainability. Airflow ensures smooth task orchestration, error handling, and monitoring. Reduced manual effort and increased data availability for analytics teams.
 
-### 5. Gold trade dashboard between SA and Mali
+### 6. Gold trade dashboard between SA and Mali
 
 *Public Repository:* [Python DA](https://github.com/tuanx18/ds-python-projects)
 
@@ -138,7 +155,7 @@ Reusable and modular SQL models in dbt ensure better collaboration and maintaina
 
 **Results**: The result of the Gold Trade Dashboard is an intuitive, interactive platform that enables stakeholders to monitor and analyze the flow of gold between South Africa and Mali, helping to optimize trade strategies, track compliance with trade regulations, and identify trends and opportunities for growth in the gold market. The system enhances transparency, improves decision-making, and provides valuable insights into the economic dynamics between the two countrie
 
-#### 6 EV sales dashboard
+#### 7 EV sales dashboard
 
 **Code** :[EV sales dashboard](https://github.com/Shreyas301/EV-sales-dashboard)
 
@@ -152,7 +169,7 @@ Reusable and modular SQL models in dbt ensure better collaboration and maintaina
 
 **Results**: The result of the EV Sales Dashboard is an interactive, real-time platform that enables stakeholders to monitor electric vehicle sales performance, identify trends, and make data-driven decisions. It supports manufacturers, dealers, and investors in tracking market penetration, understanding regional preferences, forecasting future sales, and adjusting strategies based on the insights derived from comprehensive sales data. The dashboard ultimately contributes to optimizing marketing efforts, enhancing product offerings, and driving the adoption of electric vehicles.
 
-#### 7 Aircanvas Environment
+#### 8 Aircanvas Environment
 
 **Code** :[Aircanvas Environment](https://github.com/Shreyas301/Aircanvas-Environment)
 
